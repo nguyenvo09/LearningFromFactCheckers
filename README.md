@@ -1,6 +1,6 @@
-# LearningFromFactCheckers
+# Source code and full dataset for our paper accepted for publication at SIGIR 2019
 
-This repository is for data and code of our SIGIR 2019 paper. 
+* Contact: nkvo (at) wpi (dot) edu
 
 ```
 @inproceedings{vo2018learning,
