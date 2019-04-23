@@ -1,4 +1,4 @@
-# Source code and full dataset for our paper accepted for publication at SIGIR 2019
+## Source code and full dataset for our paper accepted for publication at SIGIR 2019
 
 * Contact: nkvo (at) wpi (dot) edu
 
