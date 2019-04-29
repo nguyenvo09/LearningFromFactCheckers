@@ -3,7 +3,7 @@
 * Contact: nkvo (at) wpi (dot) edu
 * Please cite our paper as follows if you use our dataset or source code. 
 ```
-@inproceedings{vo2018learning,
+@inproceedings{vo2019learning,
 	title={Learning from Fact-checkers: Analysis and Generation of Fact-checking Language},
 	author={Vo, Nguyen and Lee, Kyumin},
 	booktitle={The 42nd International ACM SIGIR Conference 
