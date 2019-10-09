@@ -1,5 +1,5 @@
-# This is the repository for the paper Learning from Fact-checkers: Analysis and Generation of Fact-checking Language, SIGIR 2019
-
+# Text Generation of Combat Fake News
+This is the repository for the paper Learning from Fact-checkers: Analysis and Generation of Fact-checking Language, SIGIR 2019
 https://arxiv.org/abs/1910.02202
 
 * Contact: nkvo (at) wpi (dot) edu
