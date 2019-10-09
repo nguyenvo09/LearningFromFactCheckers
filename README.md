@@ -1,4 +1,6 @@
-## Source code and full dataset for our paper accepted for publication at SIGIR 2019 https://arxiv.org/abs/1910.02202
+# This is the repository for the paper Learning from Fact-checkers: Analysis and Generation of Fact-checking Language, SIGIR 2019
+
+https://arxiv.org/abs/1910.02202
 
 * Contact: nkvo (at) wpi (dot) edu
 * Please cite our paper as follows if you use our dataset or source code. 
