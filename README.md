@@ -3,7 +3,7 @@ This is the repository for the paper "Learning from Fact-checkers: Analysis and 
 https://arxiv.org/abs/1910.02202
 
 * Contact: nkvo (at) wpi (dot) edu
-* Please cite our paper as follows if you use our dataset or source code. 
+* Please cite our paper as follows if you feel our dataset is helpful. 
 ```
 @inproceedings{vo2019learning,
 	title={Learning from Fact-checkers: Analysis and Generation of Fact-checking Language},
