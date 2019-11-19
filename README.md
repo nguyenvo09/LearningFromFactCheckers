@@ -1,5 +1,5 @@
 # Fact-checking Reponses Generation to Combat Fake News
-This is the repository for the paper "Learning from Fact-checkers: Analysis and Generation of Fact-checking Language", SIGIR 2019
+This is the repository for the paper "Learning from Fact-checkers: Analysis and Generation of Fact-checking Language", accepted as full regular research paper at SIGIR 2019, Paris, France
 https://arxiv.org/abs/1910.02202
 
 ## Responses generated from our model and baselines
