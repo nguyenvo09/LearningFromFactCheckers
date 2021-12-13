@@ -14,9 +14,8 @@ dictator
 etc...
 ```
 
-## Code will be uploaded very soon
 * Contact: nkvo (at) wpi (dot) edu
-* Please cite our paper as follows if you feel our dataset is helpful. 
+* Please cite our paper as follows if you feel our resources are helpful. 
 ```
 @inproceedings{vo2019learning,
 	title={Learning from Fact-checkers: Analysis and Generation of Fact-checking Language},
