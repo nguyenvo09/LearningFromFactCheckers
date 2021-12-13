@@ -117,7 +117,7 @@ class BasicFitter(object):
                 torch.nn.utils.clip_grad_norm_(self._net.parameters(), self._clip)
                 self._optimizer.step()
                 t4 = time.time()
-                if iteration_counter % 100 == 0: print("Running time for each mini-batch: ", (t4 - t3), "s")
+                # if iteration_counter % 100 == 0: print("Running time for each mini-batch: ", (t4 - t3), "s")
             epoch_loss /= float(total_pairs)
             TensorboardWrapper.mywriter().add_scalar("loss/epoch_loss_avg", epoch_loss, epoch_num)
             # print("Number of Minibatches: ", minibatch_num, "Avg. loss of epoch: ", epoch_loss)
