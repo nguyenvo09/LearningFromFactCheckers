@@ -3,12 +3,12 @@ This is the repository for the paper "Learning from Fact-checkers: Analysis and 
 https://arxiv.org/abs/1910.02202
 
 ## Usage
-## Install required packages
+### Install required packages
 We use Pytorch 0.4.1 and python 3.5.
 ```
 pip install -r requirements.txt
 ```
-## Training/Testing
+### Training/Testing
 ```
 python Masters/master_fcrg.py
 ```
