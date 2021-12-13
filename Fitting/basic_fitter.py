@@ -14,6 +14,7 @@ import interactions
 from handlers.output_handler import FileHandler
 from handlers.tensorboard_writer import TensorboardWrapper
 from setting_keywords import KeyWordSettings
+import sys
 
 
 class BasicFitter(object):
@@ -74,7 +75,7 @@ class BasicFitter(object):
         test_interactions: :class:`matchzoo.DataPack`
         """
         self._initialize()
-        best_ce, best_epoch, test_ce = 0, 0, 0
+        best_ce, best_epoch, test_ce = sys.maxsize, 0, 0
         test_results_dict = None
         iteration_counter = 0
         count_patience_epochs = 0
