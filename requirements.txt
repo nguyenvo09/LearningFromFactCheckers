@@ -1,7 +1,7 @@
 dill
 tqdm==4.31.1
 pandas==0.23.1
-nltk==3.4.5
+nltk==3.6.5
 boto3
 requests
 regex
